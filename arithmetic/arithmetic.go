@@ -11,5 +11,5 @@ func Add(nums ...int) int {
 
 // Subtract subtracts the second operand from the first operand
 func Subtract(num1 int, num2 int) int {
-	return (num1 - num2)
+	return num1 - num2
 }
